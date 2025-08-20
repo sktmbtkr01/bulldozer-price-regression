@@ -2,7 +2,7 @@
 
 This project builds a machine learning regression model to predict the sale price of bulldozers using historical auction data.  
 The dataset includes features such as equipment specifications, usage, and sale timing.  
-The model was trained, tuned, and evaluated using metrics like MAE, RMSE, and R² to assess performance.  
+The model was trained, tuned, and evaluated using metrics like MAE, RMSLE, and R² to assess performance.  
 
 Key highlights:
 - Performed exploratory data analysis (EDA) to identify trends and handle missing values.  
